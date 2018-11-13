@@ -4,7 +4,7 @@
   "description": "Switch component for Vue Bulma",
   "main": "src/Switch.vue",
   "peerDependencies": {
-    "bulma": ">=0.6",
+    "bulma": ">=0.3",
     "vue": ">=2"
   },
   "repository": "vue-bulma/switch",
